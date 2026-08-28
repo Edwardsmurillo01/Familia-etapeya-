@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'La Familia Etapeya | Menos pantalla. Más aventuras juntos.',
     description: 'Packs de actividades, cómic y juegos imprimibles desde $1.',
-    images: [{ url: '/og.png', width: 1728, height: 910, alt: 'La Familia Etapeya disfrutando actividades en familia' }],
+    images: [{ url: '/og.png', width: 1122, height: 1402, alt: 'La Familia Etapeya disfrutando actividades en familia' }],
   },
   twitter: {
     card: 'summary_large_image',
