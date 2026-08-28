@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://la-familia-etapeya.openai.site'),
+  metadataBase: new URL('https://la-familia-etapeya.murillex.chatgpt.site'),
   title: 'La Familia Etapeya | Aventuras para imprimir y disfrutar',
   description: 'Packs de actividades, cómic y juegos imprimibles para crear recuerdos inolvidables en familia.',
   openGraph: {
