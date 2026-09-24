@@ -15,7 +15,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://la-familia-etapeya.murillex.chatgpt.site'),
+  metadataBase: new URL('https://familiaetapeya.com'),
   title: 'La Familia Etapeya | Aventuras para imprimir y disfrutar',
   description: 'Packs de actividades, cómic y juegos imprimibles para crear recuerdos inolvidables en familia.',
   openGraph: {
@@ -29,6 +29,7 @@ export const metadata: Metadata = {
     description: 'Packs de actividades, cómic y juegos imprimibles desde $1.',
     images: ['/og.png'],
   },
+  alternates: { canonical: '/' },
 };
 
 export default function RootLayout({
